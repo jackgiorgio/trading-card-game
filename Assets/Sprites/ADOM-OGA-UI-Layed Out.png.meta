@@ -1,0 +1,510 @@
+fileFormatVersion: 2
+guid: dafc2909b353f9c4fac65359dd10672c
+timeCreated: 1494540346
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: ADOM-OGA-UI-Layed Out_0
+    21300002: ADOM-OGA-UI-Layed Out_1
+    21300004: ADOM-OGA-UI-Layed Out_2
+    21300006: ADOM-OGA-UI-Layed Out_3
+    21300008: ADOM-OGA-UI-Layed Out_4
+    21300010: ADOM-OGA-UI-Layed Out_5
+    21300012: ADOM-OGA-UI-Layed Out_6
+    21300014: ADOM-OGA-UI-Layed Out_7
+    21300016: ADOM-OGA-UI-Layed Out_8
+    21300018: ADOM-OGA-UI-Layed Out_9
+    21300020: ADOM-OGA-UI-Layed Out_10
+    21300022: ADOM-OGA-UI-Layed Out_11
+    21300024: ADOM-OGA-UI-Layed Out_12
+    21300026: ADOM-OGA-UI-Layed Out_13
+    21300028: ADOM-OGA-UI-Layed Out_14
+    21300030: ADOM-OGA-UI-Layed Out_15
+    21300032: ADOM-OGA-UI-Layed Out_16
+    21300034: ADOM-OGA-UI-Layed Out_17
+    21300036: ADOM-OGA-UI-Layed Out_18
+    21300038: ADOM-OGA-UI-Layed Out_19
+    21300040: ADOM-OGA-UI-Layed Out_20
+    21300042: ADOM-OGA-UI-Layed Out_21
+    21300044: ADOM-OGA-UI-Layed Out_22
+    21300046: ADOM-OGA-UI-Layed Out_23
+    21300048: ADOM-OGA-UI-Layed Out_24
+    21300050: ADOM-OGA-UI-Layed Out_25
+    21300052: ADOM-OGA-UI-Layed Out_26
+    21300054: ADOM-OGA-UI-Layed Out_27
+    21300056: ADOM-OGA-UI-Layed Out_28
+    21300058: ADOM-OGA-UI-Layed Out_29
+    21300060: ADOM-OGA-UI-Layed Out_30
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ADOM-OGA-UI-Layed Out_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1364
+        width: 106
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ADOM-OGA-UI-Layed Out_1
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 1418
+        width: 35
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ADOM-OGA-UI-Layed Out_2
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 1412
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ADOM-OGA-UI-Layed Out_3
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 1383
+        width: 60
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ADOM-OGA-UI-Layed Out_4
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 1382
+        width: 288
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ADOM-OGA-UI-Layed Out_5
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 1425
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ADOM-OGA-UI-Layed Out_6
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 1439
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ADOM-OGA-UI-Layed Out_7
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 1409
+        width: 578
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ADOM-OGA-UI-Layed Out_8
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 1381
+        width: 9
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ADOM-OGA-UI-Layed Out_9
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 1358
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ADOM-OGA-UI-Layed Out_10
+      rect:
+        serializedVersion: 2
+        x: 1361
+        y: 1330
+        width: 57
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ADOM-OGA-UI-Layed Out_11
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1251
+        width: 67
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ADOM-OGA-UI-Layed Out_12
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 1251
+        width: 578
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ADOM-OGA-UI-Layed Out_13
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 1249
+        width: 67
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ADOM-OGA-UI-Layed Out_14
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 1238
+        width: 103
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ADOM-OGA-UI-Layed Out_15
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 1333
+        width: 329
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ADOM-OGA-UI-Layed Out_16
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 1327
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ADOM-OGA-UI-Layed Out_17
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 1272
+        width: 327
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ADOM-OGA-UI-Layed Out_18
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1038
+        width: 852
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ADOM-OGA-UI-Layed Out_19
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 1206
+        width: 327
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ADOM-OGA-UI-Layed Out_20
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1190
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ADOM-OGA-UI-Layed Out_21
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 1189
+        width: 5
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ADOM-OGA-UI-Layed Out_22
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1133
+        width: 5
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ADOM-OGA-UI-Layed Out_23
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 1132
+        width: 5
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ADOM-OGA-UI-Layed Out_24
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 1146
+        width: 531
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ADOM-OGA-UI-Layed Out_25
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 1086
+        width: 327
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ADOM-OGA-UI-Layed Out_26
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 516
+        width: 826
+        height: 519
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ADOM-OGA-UI-Layed Out_27
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 508
+        width: 822
+        height: 517
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ADOM-OGA-UI-Layed Out_28
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 1026
+        width: 7
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ADOM-OGA-UI-Layed Out_29
+      rect:
+        serializedVersion: 2
+        x: 1737
+        y: 1022
+        width: 7
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ADOM-OGA-UI-Layed Out_30
+      rect:
+        serializedVersion: 2
+        x: 1721
+        y: 508
+        width: 25
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
